@@ -1,24 +1,15 @@
-![alt text](https://github.com/ajariwala1/HelloWorld/blob/main/Docs/banner_au.png?raw=true)
+![alt text](https://github.com/ajariwala1/HelloWorld_Completed/blob/main/Docs/banner_au.png?raw=true)
 
 
-:stop_sign: `Incomplete` <br/>
-:bangbang: `Skeleton Project`
+:white_check_mark: `Complete` <br/>
+:grey_exclamation: `Finished Project`
 
-# HelloWorld
+# SocceriOSApp
 
-This is a simple Hello World application. It shows "Hello, AU!" text with the AU logo on the home screen.
-This is a skeleton project that includes all assets you need to build the application.
+This is a simple iOS application. It shows "I Love Soccer" text with a soccer ball logo on the home screen.
 
-## Getting Started
+## Finished App
 
-Clone the project and see the lecture video on Canvas under Module 1 for instructions. <br/>
-See the completed HelloWorld application here: <br/>
-https://github.com/ajariwala1/HelloWorld_Completed
+<img src="https://github.com/tjgrafft/SocceriOSApp/blob/main/Docs/socceriOS_capture.png?raw=true" width="200">
 
-## What you will learn
 
-- Clone an existing project from GitHub.
-- Get an overview of XCode.
-- Add design components to your app.
-- Import image assets to your app.
-- Test and debug your app.
